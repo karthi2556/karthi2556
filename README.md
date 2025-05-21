@@ -1,5 +1,7 @@
 ### 👋 Hi there, I'm Karthi (@karthi2556)
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
 - 👀 I’m interested in web development, UI/UX design, and open-source contributions.
 - 🌱 I’m currently learning advanced JavaScript, React, and Node.js.
 - 💞️ I’m looking to collaborate on innovative frontend projects, UI libraries, or anything creative!
