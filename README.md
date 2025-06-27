@@ -8,7 +8,7 @@
 ---
 
 - 👨‍💻 I’m passionate about building **clean, interactive UIs** & making the web better.
-- 🔭 I’m currently working on leveling up in **React, TypeScript & performance optimization**.
+- 🔭 I’m currently working on leveling up in **React JS, performance optimization**.
 - 🌱 Constantly learning, building and growing — both as a dev and as a human.
 - 💬 Ask me about **JavaScript, jQuery, UI/UX, or CSS tricks**!
 - ⚡ Fun fact: I enjoy playing **cricket**, watching **movies**, and picking up new skills on the fly.
