@@ -7,7 +7,7 @@
 
 ---
 
-- 👨‍💻 I’m passionate about building **clean, interactive UIs** & making the web better.
+- 👨‍💻 Passionate front-end developer focused on building clean, accessible, and interactive user interfaces. I enjoy crafting modern web experiences that are both user-friendly and performance-optimized.
 - 🔭 I’m currently working on leveling up in **React JS, performance optimization**.
 - 🌱 Constantly learning, building and growing — both as a dev and as a human.
 - 💬 Ask me about **JavaScript, jQuery, UI/UX, or CSS tricks**!
